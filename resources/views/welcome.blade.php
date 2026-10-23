@@ -76,7 +76,7 @@
 
     <nav>
         <a href="/">Inicio</a>
-        <a href="#productos">Productos</a>
+        <a href="/productos">Productos</a>
         <a href="#contacto">Categorias</a>
         <a href="#contacto">Contacto</a>
     </nav>
